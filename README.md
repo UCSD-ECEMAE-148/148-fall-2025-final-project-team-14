@@ -67,7 +67,7 @@ To ensure computational efficiency, the system implements a **Node Activation Lo
 ### Hardware
 The robot hardware diagram is shown below
 <p align="center">
-  <img src="images/Robot Structure.png" alt="Team 14 Delivery Bot" width="400" height="540">  
+  <img src="images/Robot Structure.png" alt="Team 14 Delivery Bot" width="800" height="1080">  
 </p>
 
 ### Video:
