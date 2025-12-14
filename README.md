@@ -224,6 +224,9 @@ ros2 launch auto_delivery_pkg mission.launch.py
   <img src="images/Untitled_Artwork 6.jpg" alt="Wiring Diagram" width="2732" height="2048">  
 </p>
 
+## Project Slides
+[Link to Slides](https://docs.google.com/presentation/d/1kkrjojStIwvq7xBeCKPqe0v9P8Wo5cu7pBSfsbAYjkM/edit?usp=sharing)
+
  <!-- TODO HERE  -->
 
 ### Software
