@@ -64,6 +64,12 @@ To ensure computational efficiency, the system implements a **Node Activation Lo
 
 <!-- <img src="images/Mission_Flowchart.png" alt="FSM Logic Flowchart"/> -->
 
+### Hardware
+The robot hardware diagram is shown below
+<p align="center">
+  <img src="images/Robot Structure.png" alt="Team 14 Delivery Bot" width="400" height="540">  
+</p>
+
 ### Video:
 
 [![MAE 148 - Team 14 Demo](http://img.youtube.com/vi/VivayishKWo/0.jpg)](https://www.youtube.com/watch?v=VivayishKWo)
