@@ -94,7 +94,7 @@ To ensure computational efficiency, the system implements a **Node Activation Lo
 | Kazuya Miyata  | Computer Science    | Class of 2027 | [Linkedin](https://www.linkedin.com/in/kazmiyata/) |
 | Najmi Mohammad Hanis   | Mechanical Engineering       | Class of 2026 | [Linkedin](https://www.linkedin.com/in/najmi-hanis/) |
 | Yuan Xu  | Mechanical Engineering     | Class of 2027 | [Linkedin](https://www.linkedin.com/in/zack-xu-513509207/) |
-| Daniel Ryan Scuba  | Mechanical Engineering     | Class of 2026 | [Linkedin](https://www.linkedin.com/in/daniel-scuba-/) |
+| Daniel Scuba  | Mechanical Engineering     | Class of 2026 | [Linkedin](https://www.linkedin.com/in/daniel-scuba-/) |
 
 ---
 
