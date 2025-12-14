@@ -146,6 +146,11 @@ The system architecture relies on a central controller managing several speciali
     - Listens for the drop command from the mission controller.
     - Actuates the servo to tilt the bed and release the package.
 
+
+### Communcation Diagram:
+
+  ![YOLO Model result](images/diagram.png)
+
 ---
 
 ## **Technologies Used**
@@ -232,6 +237,14 @@ The system runs on an Pi 5. To manage the high load of running ROS2 alongside Co
 
 #### Neural Network
 We trained a custom YOLOv8 Nano model on a dataset of our specific delivery boxes. This model was compiled into a `.blob` file to run natively on the OAK-D's Myriad X VPU, offloading processing from the PI's main CPU.
+
+The dataset was labeled using **roboflow** + SAM3's auto labeling:
+
+![Roboflow training](images/roboflow.png)
+
+Model Usage: 
+
+![YOLO Model result](images/image.png)
 
 ## Acknowledgments
 *Thanks to Professor Jack Silberman and the TAs for their guidance on the UCSD Robocar framework. Special thanks to the creators of the `pupil_apriltags` library.*
