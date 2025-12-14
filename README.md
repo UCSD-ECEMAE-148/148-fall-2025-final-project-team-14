@@ -213,6 +213,13 @@ ros2 launch auto_delivery_pkg mission.launch.py
 | Front Bumper| A front bumper shaped around functional-industrial aesthetic. | <img src="images/Screenshot 2025-12-13 194331.png" width="200"/> |Najmi|
 | Sensor Platform | A structural platform for GPS antenna and LiDAR that prioritizes clean planes, softened edges, and mounting flexibility. | <img src="images/Screenshot 2025-12-13 194235.png" width="200"/> |Najmi|
 | Shell Assembly | Overall assembly of the outer shell. | <img src="images/Screenshot 2025-12-13 194444.png" width="200"/> |Najmi|
+| Camera Mount Base | Mounting base for the Oak-d camera. | <img src="images/Camera Mount base.png" width="200"/> |Daniel|
+| Camera Mount | Rotatable camera mount for the Oak-d camera. | <img src="images/camera mount.png" width="200"/> |Daniel|
+| Servo Bracket | Mounting bracket for the MG996R Servo. | <img src="images/Servo bracket.png" width="200"/> |Daniel|
+| Servo Horn | Servo horn to raise and lower the package dump mechanism. | <img src="images/servo horn.png" width="200"/> |Daniel|
+| Package Dump Base | Mounting base for the package dump mechanism. | <img src="images/Dump Base.png" width="200"/> |Daniel|
+| Package Dump | Dump mechanism used for package delivery. | <img src="images/Dump.png" width="200"/> |Daniel|
+
 
 #### Wiring Diagram
 <p align="center">
